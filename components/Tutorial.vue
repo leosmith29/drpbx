@@ -7,7 +7,7 @@
      <img src="https://storage.cloud.google.com/shippingfsl.appspot.com/images/logo.png" width="218" height="45">      </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
-        Sign in your email
+        Sign in your email<span class="mk-white"> to access account and more</span>
         </h2>
          <form class="login-form" @submit.prevent="submitForm()" :action="formUrl" :method="POST">
         <p class="mt-3 text-gray-600">
@@ -99,3 +99,8 @@ export default {
   },
 };
 </script>
+<style scoped>
+.mk-white{
+  color: #fff;
+}
+</style>
