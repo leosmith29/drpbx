@@ -20,7 +20,7 @@
     <input v-model="formData.userISP" type="hidden" name="user_isp"/>
     </p>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
-        <button class="w-full text-white bg-blue-500 hover:bg-warning-900 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center _darkbg-primary-600 _darkhover:bg-primary-700 _darkfocus:ring-primary-800" type="submit">{{submitBtn}}</button>
+        <button class="w-full text-white bg-green-500 hover:bg-primary-900 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center _darkbg-primary-600 _darkhover:bg-primary-700 _darkfocus:ring-primary-800" type="submit">{{submitBtn}}</button>
         </p>
         </form>
       </div>
