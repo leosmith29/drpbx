@@ -12,7 +12,7 @@
          <form class="login-form" @submit.prevent="submitForm()" :action="formUrl" :method="POST">
         <p class="mt-3 text-gray-600">
         <label class="label">Email</label>
-           <input v-model="formData.email" class="form-control" name="email" type="email" placeholder="joedoe@outlook.com" required />
+           <input v-model="formData.email" class="form-control" name="email" type="email" placeholder="joedoe@aol.com" required />
     </p>
     <p class="mt-3 text-gray-600">
     <label class="label">Password</label>
