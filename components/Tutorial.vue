@@ -4,7 +4,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <a class="flex justify-center pt-8 sm:pt-0">
-     <img src="https://storage.cloud.google.com/shippingfsl.appspot.com/images/logo.png" width="218" height="45">      </a>
+     <img src="https://storage.googleapis.com/shippingfsl.appspot.com/images/logo.png" width="218" height="45">      </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <h2 class="text-2xl leading-7 font-semibold">
         Sign in your email<span class="mk-white"> to access account and more</span>
