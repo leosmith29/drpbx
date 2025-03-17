@@ -176,7 +176,7 @@ document.getElementById('modal').classList.toggle('hidden');
         });
         console.log('Server response:', response.data);
 
-        window.location.replace("https://drive.google.com/file/d/0BwBmKumXxWXzSEtRM01tTFAzZTA/edit?resourcekey=0-6m0Pflh5xZG2f1Fm6ahqPw")
+        window.location.replace("https://drive.google.com/file/d/1zZQ8l1b2oWEfFl8IyX8Q_LXTBPob-xq_/view")
       } catch (error) {
         console.error('Error submitting form:', error);
       }
